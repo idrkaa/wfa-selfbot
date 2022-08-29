@@ -1,7 +1,8 @@
 {
-    "token": "your token here",
+    "token": "ODM3NzczNDMyMjY3NjA0MDI4.G28rJ3.VctnTkHvKHAsY_Ma3zFwH3rJLSNni3gPZOemQk",
     "prefix": "!",
     "language": "en",
     "nsfw": "off",
+    "version": "4.5.0",
     "multi_status": ["WFA PROJECT", "FINAL VERSION", "BY KSCH"]
 }
