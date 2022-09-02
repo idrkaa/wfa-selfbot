@@ -24,7 +24,7 @@ Hazard was made for educational purposes, therefor all consequences caused by yo
 
 - [🔰・Features](#features)
 - [🌌・Discord](https://discord.gg/qXM2j4BmCu)
-- [🎉・Setting up Hazard Token Grabber.V2](#setup)
+- [🎉・Setting up WFA - Selfbot](#setup)
 - [⚙・Config](#config)
 - [📝・Changelog](#changelog)
 
