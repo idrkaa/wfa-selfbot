@@ -9,7 +9,7 @@
 
 
 <h2 align="center">
-  Hazard-Token-Grabber-V2 was made with
+  WFA - Selfbot was made with
 
 Love ❌ code ✅
 
@@ -17,8 +17,6 @@ Love ❌ code ✅
 
 **NOTE:** \
 Hazard was made for educational purposes, therefor all consequences caused by your actions are **your** responsibility and accountability.
-
-> [Why Hazardv2 won't be more OP](https://github.com/Rdimo/Hazard-Token-Grabber-V2/issues/314#issuecomment-1133918906) ┋[Want an even better grabber?](#premium) ┋ [Why choose hazard v2?](#why_hazard)
 
 ---
 
@@ -59,7 +57,7 @@ Hazard was made for educational purposes, therefor all consequences caused by yo
 
 ## <a id="config"></a>⚙ 〢 Config
 
-If you want to change the config, open up [config.json]([https://github.com/Rdimo/Hazard-Token-Grabber-V2/blob/master/main.py](https://github.com/WFA-Selfbot/wfa-selfbot/blob/main/config.json) and locate it at the top. There you can configure the following:
+If you want to change the config, open up [config.json](https://github.com/WFA-Selfbot/wfa-selfbot/blob/main/config.json) and locate it at the top. There you can configure the following:
 
 ```json
 {
