@@ -1,10 +1,88 @@
 # WFA - Selfbot v4
 
 ![](https://raw.githubusercontent.com/WFA-Selfbot/wfa-selfbot/main/assets/wfa-background.png)
-# Installation / Usage 🔧
-* Download the file from [here](https://github.com/RustyBalboadev/Discord-Raid-Tool/releases/download/v1.4/Discord.Raid.rar)
-* Place in a folder that contains a text file named "tokens" this is where you'll be placing all your tokens **make sure each token is seperated by a new line**
 
-# FAQ
-1. Is this a virus?
-No, windows defender will catch this as a virus. This is a false positive, if you do not feel comfortable downloading the executable then build from source.
+
+<h1 align="center">
+  Hazard Token Grabber V2 🔰
+</h1>
+
+
+<h2 align="center">
+  Hazard-Token-Grabber-V2 was made with
+
+Love ❌ code ✅
+
+</h2>
+
+**NOTE:** \
+Hazard was made for educational purposes, therefor all consequences caused by your actions are **your** responsibility and accountability.
+
+> [Why Hazardv2 won't be more OP](https://github.com/Rdimo/Hazard-Token-Grabber-V2/issues/314#issuecomment-1133918906) ┋[Want an even better grabber?](#premium) ┋ [Why choose hazard v2?](#why_hazard)
+
+---
+
+## <a id="content"></a>🌐 〢 Content
+
+- [🔰・Features](#features)
+- [🌌・Discord](https://discord.gg/qXM2j4BmCu)
+- [🎉・Setting up Hazard Token Grabber.V2](#setup)
+- [⚙・Config](#config)
+- [📝・Changelog](#changelog)
+
+## <a id="features"></a>🔰 〢 Features
+
+```
+> Commands Raid
+> AdLock Group
+> Token Grabber detector
+> Commands Utils
+> Commands """Hack"""
+> Commands Troll
+> Commands Moderation
+> Tokens Manager
+> Commands Activities
+> Discord Support
+> + More!
+```
+
+
+
+## <a id="setup"></a> 📁 〢 Setting up WFA - Selfbot
+
+1. Install [Nodejs](https://nodejs.org/)
+2. Open up [config.json](https://github.com/WFA-Selfbot/wfa-selfbot/blob/main/config.json) with notepad or some other editor
+3. Double Click on [start.bat](https://github.com/WFA-Selfbot/wfa-selfbot/blob/main/start.bat)
+
+
+
+
+## <a id="config"></a>⚙ 〢 Config
+
+If you want to change the config, open up [config.json]([https://github.com/Rdimo/Hazard-Token-Grabber-V2/blob/master/main.py](https://github.com/WFA-Selfbot/wfa-selfbot/blob/main/config.json) and locate it at the top. There you can configure the following:
+
+```json
+{
+    "token": "NzgxMjA0ODUyOTEwOTgxMTYz.GkAM43.t0y1bsPwdKBkfIoU_LWh04eOtNcekjPbCFwRz0", // place your token like example
+    "prefix": "!", //you can change it
+    "language": "en", //only en - fr allowed
+    "nsfw": "off", //disable or enable nsfw commands
+    "version": "4.5.0", //version of WFA
+    "multi_status": ["WFA PROJECT", "FINAL VERSION", "BY KSCH"] //multi-stream command
+}
+```
+
+---
+
+
+## <a id="changelog"></a>💭 〢 ChangeLog
+
+```diff
+v4.5.5 ⋮ 2022-06-30
++ bug fix for token fucker
++ error message fixed
++ new account error fixed
+
+```
+
+<a href=#top>Back to Top</a></p>
