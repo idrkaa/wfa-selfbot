@@ -4,7 +4,7 @@
 
 
 <h1 align="center">
-  Hazard Token Grabber V2 🔰
+  WFA Selfbot V4 🔰
 </h1>
 
 
@@ -16,7 +16,7 @@ Love ❌ code ✅
 </h2>
 
 **NOTE:** \
-Hazard was made for educational purposes, therefor all consequences caused by your actions are **your** responsibility and accountability.
+wfa - selfbot was made for educational purposes, therefor all consequences caused by your actions are **your** responsibility and accountability.
 
 ---
 
@@ -32,7 +32,7 @@ Hazard was made for educational purposes, therefor all consequences caused by yo
 
 ```
 > Commands Raid
-> AdLock Group
+> Lock Group
 > Token Grabber detector
 > Commands Utils
 > Commands """Hack"""
