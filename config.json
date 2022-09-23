@@ -2,7 +2,7 @@
     "token": "your token here",
     "prefix": "!",
     "language": "en",
-    "nsfw": "off",
+    "nsfw": "on",
     "version": "4.6.0",
     "multi_status": ["WFA PROJECT", "FINAL VERSION", "BY KSCH"]
 }
