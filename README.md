@@ -81,6 +81,9 @@ v4.5.5 ⋮ 2022-06-30
 + error message fixed
 + new account error fixed
 
+v4.8.0: 2022-10-25
++ bug auto voice kick
++ 2.2.5 error fixed
 ```
 
 <a href=#top>Back to Top</a></p>
